@@ -1,6 +1,4 @@
-## 🧪 EternalBlue Exploitation Lab Walkthrough
-
-## TryHackMe: Metasploit – Meterpreter Room  
+## TryHackMe: Metasploit – Meterpreter  
 **Status:** Completed  
 **Badge Earned:** Metasploit  
 **Tools Used:** Nmap, Metasploit Framework  
