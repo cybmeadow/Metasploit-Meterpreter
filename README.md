@@ -1,4 +1,4 @@
-## TryHackMe: Metasploit – Meterpreter  
+## TryHackMe: EternalBlue-Exploitation 
 **Status:** Completed  
 **Badge Earned:** Metasploit  
 **Tools Used:** Nmap, Metasploit Framework  
